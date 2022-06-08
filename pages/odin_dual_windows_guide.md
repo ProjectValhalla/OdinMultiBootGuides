@@ -8,4 +8,4 @@ Download these files:
 
 [windows_usb_installer.7z](http://download.project-valhalla.com/custom_boot/windows_usb_installer.7z)
 
-An install.wim from either folder in this {link](http://download.project-valhalla.com/windows_release/)
+An install.wim from either folder in this [link](http://download.project-valhalla.com/windows_release/)
