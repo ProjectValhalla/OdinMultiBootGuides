@@ -25,7 +25,7 @@ It will also divide your available storage in half between the two operating sys
 
 ### Prerequisite Software:
 
-- [Google USB Driver](https://www.xda-developers.com/install-adb-windows-macos-linux/)
+- [Google USB Driver](https://developer.android.com/studio/run/win-usb)
 
 - [custom_boot_1.0.2.10.7z](http://download.project-valhalla.com/custom_boot/custom_boot_1.0.2.10.7z)
 
