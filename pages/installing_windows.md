@@ -16,3 +16,8 @@ Android will be the primary OS the device boots to. To swap to Windows, power of
 
 
 Enjoy!
+
+
+##Returning to Android Only
+
+Boot the device into fastboot by powering off the device and ress Volume Down and Power until you see the Green START screen. Plug your device into your pc and run the restore.bat file in the custom_boot_1.0.2.10 folder.
