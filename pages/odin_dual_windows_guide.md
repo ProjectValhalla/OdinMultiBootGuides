@@ -37,4 +37,4 @@ It will also divide your available storage in half between the two operating sys
 
 1. [Preparing the Odin and Files](https://github.com/ProjectValhalla/OdinMultiBootGuides/blob/main/pages/preparing_the_odin_and_files.md)
 
-2. [Installing Windows](https://github.com/ProjectValhalla/OdinMultiBootGuides/blob/main/pages/installing_windows)
+2. [Installing Windows](https://github.com/ProjectValhalla/OdinMultiBootGuides/blob/main/pages/installing_windows.md)
