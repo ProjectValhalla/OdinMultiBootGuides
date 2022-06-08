@@ -37,6 +37,6 @@ It will also divide your available storage in half between the two operating sys
 
 1. [Preparing the Odin and files]
 
-2. [Partiioning the device]
+2. [Partitioning the device]
 
 3. [Installing Windows]
