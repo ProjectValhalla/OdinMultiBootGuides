@@ -35,7 +35,7 @@ It will also divide your available storage in half between the two operating sys
 
 ## Installation Steps:
 
-1. [Preparing the Odin and files](https://github.com/ProjectValhalla/OdinMultiBootGuides/blob/main/pages/preparing_the_odin_and_files.md)
+1. [Preparing the Odin and Files](https://github.com/ProjectValhalla/OdinMultiBootGuides/blob/main/pages/preparing_the_odin_and_files.md)
 
 2. [Partitioning the device](https://github.com/ProjectValhalla/OdinMultiBootGuides/blob/main/pages/partitioning_the_device.md)
 
