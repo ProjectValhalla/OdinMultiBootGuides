@@ -1,4 +1,4 @@
-#Preparing the Odin and Files
+# Preparing the Odin and Files
 
 ## Preparing the software
 
@@ -13,6 +13,6 @@
 
 1. Copy the contents of the windows_usb_installer folder onto the root of your USB drive. Make sure the install.wim file is in the images folder.
 
-##Step 2
+## Step 2
 
 [Partitioning the Device](https://github.com/ProjectValhalla/OdinMultiBootGuides/edit/main/pages/partitioning_the_device.md)
