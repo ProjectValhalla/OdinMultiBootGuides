@@ -9,7 +9,7 @@ Furthermore, this installation may brick your device. Do so at your own risk! We
 
 This will reset your device! Make sure to backup all files and configurations that you want to save!
 
-It will also divide your available storage in half between the two operating systems. If you have a 128GB storage it will be 64GB/64GB and if you have a 256GB storage it will be 128/128.
+It will also divide your available storage in half between the two operating systems. If you have a 128GB storage it will be 64GB/64GB and if you have a 256GB storage it will be 128GB/128GB.
 
 ## What you’ll need :
 
@@ -32,3 +32,11 @@ It will also divide your available storage in half between the two operating sys
 - [windows_usb_installer.7z](http://download.project-valhalla.com/custom_boot/windows_usb_installer.7z)
 
 - An install.wim from either folder in this [link](http://download.project-valhalla.com/windows_release/)
+
+## Installation Steps:
+
+1. [Preparing the Odin and files]
+
+2. [Partiioning the device]
+
+3. [Installing Windows]
