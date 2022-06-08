@@ -1,2 +1,6 @@
 # OdinMultiBootGuides
-Guides for MultiBoot on Odin
+
+
+[Odin Windows Dual-Boot Guide]
+
+[Odin Linux Dual-Boot Guide]
