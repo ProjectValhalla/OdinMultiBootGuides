@@ -22,4 +22,4 @@
 
 ## Step 2
 
-[Installing Windows](https://github.com/ProjectValhalla/OdinMultiBootGuides/edit/main/pages/installing_windows)
+[Installing Windows](https://github.com/ProjectValhalla/OdinMultiBootGuides/edit/main/pages/installing_windows.md)
