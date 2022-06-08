@@ -8,11 +8,16 @@
 
 3. Extract the contents of windows_usb_installer.zip into a separate folder and put the install.wim you selected in the images folder.
 
+## Odin Device Preparation
+
+1. Power off your Odin and start it back up by pressing and holding the Volume Up + Power button until you see the green START text. You are now booted to fastboot.
+
+2. Plug your device into your pc, and run the flash.bat in the custom_boot_1.0.2.10 folder. This will repartition your device. It will take several minutes to complete.
+
+3. The Odin will reboot to android when the configuration has completed. Power it off and unplug it at this time.
 
 ## USB Stick Preparation
 
-1. Copy the contents of the windows_usb_installer folder onto the root of your USB drive. Make sure the install.wim file is in the images folder.
+1. While that is flashing is the perfect time to setup your USB drive. Copy the contents of the windows_usb_installer folder onto the root of your fat32 formatted USB drive. Make sure the install.wim file is in the images folder.
 
 ## Step 2
-
-[Partitioning the Device](https://github.com/ProjectValhalla/OdinMultiBootGuides/edit/main/pages/partitioning_the_device.md)
