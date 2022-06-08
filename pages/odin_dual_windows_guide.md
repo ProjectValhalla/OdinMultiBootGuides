@@ -7,13 +7,19 @@ This is a community effort project, and thus we cannot guarantee no issues when 
 
 Furthermore, this installation may brick your device. Do so at your own risk! We take no responsibility for hardbricked devices!
 
+This will reset your device! Make sure to backup all files and configurations that you want to save
+
 ## What you’ll need :
 
 ### Hardware :
+
 - A Windows based computer (vm will work)
+
 - An **Odin-Base** (4GB RAM with 64GB Storage) or an **Odin-Pro** (8GB RAM with 128GB or 256GB Storage)
+
 - An 8GB or larger USB flash drive formatted to FAT32
-- A USB-A to USB-C adapter to plug the flash drive into the C port of the Odin
+
+- A USB-A to USB-C adapter to plug the flash drive into the C port of the Odin (if your drive doesn't have a USB-C connector)
 
 ### Prerequisite Software:
 
