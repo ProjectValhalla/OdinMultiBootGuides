@@ -7,7 +7,9 @@ This is a community effort project, and thus we cannot guarantee no issues when 
 
 Furthermore, this installation may brick your device. Do so at your own risk! We take no responsibility for hardbricked devices!
 
-This will reset your device! Make sure to backup all files and configurations that you want to save
+This will reset your device! Make sure to backup all files and configurations that you want to save!
+
+It will also divide your available storage in half between the two operating systems. If you have a 128GB storage it will be 64GB/64GB and if you have a 256GB storage it will be 128/128.
 
 ## What you’ll need :
 
