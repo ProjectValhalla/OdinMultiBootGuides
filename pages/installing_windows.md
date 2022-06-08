@@ -8,7 +8,7 @@
 
 3. Give it time and it will eventually BSOD. Turn it off by holding the power button.
 
-## Swapping OSes
+## Swapping Operating Systems
 
 Android will be the primary OS the device boots to. To swap to Windows, power off the device and press Volume Up + Power until you see the fastboot bootloader menu with the green START. Use the volume keys to select "Boot to custom loader". This will boot the device into windows.
 
