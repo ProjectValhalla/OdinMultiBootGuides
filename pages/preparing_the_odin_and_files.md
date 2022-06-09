@@ -14,7 +14,7 @@
 
 2. Plug your device into your pc, and run the `flash.bat` in the `custom_boot_1.0.2.10` folder. This will repartition your device. It will take several minutes to complete.
 
- If this step doesn't work, you may need to manually assign the device the correct driver from device manager by finding the device, right-clicking on it and selecting update driver. Then select browse my computer for drivers followed by let me pick from a list of available drivers. It should be under Google, then select the bootloader interface driver and hit next.
+ If this step doesn't work, you may need to manually assign the device the correct driver from device manager by finding the device, right-clicking on it and selecting update driver. Then select browse my computer for drivers followed by let me pick from a list of available drivers. The Driver should appear under the Google section, select this and hit next. If the Android section or Google section is not present in the Drivers listed, click the "ALL Drivers" option at the top of the list. This will change the menu setup. Google should now be a visible section with three drivers listed, select "Android Bootloader Interface", hit next
 
 3. The Odin will reboot to fresh start Android when the configuration has completed. Power it off and unplug it at this time.
 
