@@ -20,7 +20,7 @@
 
 ## USB Stick Preparation
 
-1. While that is flashing is the perfect time to setup your USB drive. Copy the contents of the `windows_usb_installer` folder onto the root of your fat32 formatted USB drive. Make sure the `install.wim` file is in the images folder.
+1. While that is flashing is the perfect time to setup your USB drive. Copy the contents of the `windows_usb_installer` folder onto the root of your FAT32 formatted USB drive. Make sure the `install.wim` file is in the `images` folder.
 
 ## Step 2
 
