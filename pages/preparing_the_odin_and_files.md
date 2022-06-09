@@ -16,7 +16,7 @@
 
  If this step doesn't work, you may need to manually assign the device the correct driver from device manager by finding the device, right-clicking on it and selecting update driver. Then select browse my computer for drivers followed by let me pick from a list of available drivers. It should be under Google, then select the bootloader interface driver and hit next.
 
-3. The Odin will reboot to android when the configuration has completed. Power it off and unplug it at this time.
+3. The Odin will reboot to fresh start Android when the configuration has completed. Power it off and unplug it at this time.
 
 ## USB Stick Preparation
 
