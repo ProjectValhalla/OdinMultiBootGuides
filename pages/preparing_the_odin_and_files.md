@@ -6,11 +6,11 @@
 
 2. Extract the contents of `custom_boot_1.0.2.10.zip` into a folder.
 
-3. Extract the contents of `windows_usb_installer.zip` into a separate folder and put the `install.wim` you selected in the images folder.
+3. Extract the contents of `windows_usb_installer.zip` into a separate folder and put the `install.wim` you selected in the `images` folder.
 
 ## Odin Device Preparation
 
-1. Power off your Odin and start it back up by pressing and holding the Volume Up + Power button until you see the green START text. You are now booted to fastboot.
+1. Power off your Odin and start it back up by pressing and holding the **Volume Down + Power** button until you see the green START text. You are now booted to fastboot.
 
 2. Plug your device into your pc, and run the `flash.bat` in the `custom_boot_1.0.2.10` folder. This will repartition your device. It will take several minutes to complete.
 
@@ -24,4 +24,4 @@
 
 ## Step 2
 
-[Installing Windows](https://github.com/ProjectValhalla/OdinMultiBootGuides/edit/main/pages/installing_windows.md)
+[Installing Windows](https://github.com/ProjectValhalla/OdinMultiBootGuides/blob/main/pages/installing_windows.md)

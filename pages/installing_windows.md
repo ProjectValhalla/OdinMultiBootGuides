@@ -2,7 +2,7 @@
 
 # Installing Windows
 
-1. With your powered off Odin unplugged from your pc, plug the USB drive into the port on the Odin and start the device with the same Volume Up + Power button press. Hold it until you see the Project Valhalla logo.
+1. With your powered off Odin unplugged from your pc, plug the USB drive into the port on the Odin and start the device with the same **Volume Up + Power** button press. Hold it until you see the Project Valhalla logo.
 
 2. Windows will now begin installing. This process will take quite some time. You will see a console on the screen showing the installation progress.
 
