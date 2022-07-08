@@ -31,7 +31,8 @@ It will also divide your available storage in half between the two operating sys
 
 - [windows_usb_installer.7z](http://download.project-valhalla.com/custom_boot/windows_usb_installer.7z)
 
-- An install.wim from either folder in this [link](http://download.project-valhalla.com/windows_release/)
+- An install.wim from either folder in this [link](http://download.project-valhalla.com/windows_release/). 
+  - Build 22621.1 is recommended as it has the least graphical issues at this time.
 
 ## Installation Steps:
 
