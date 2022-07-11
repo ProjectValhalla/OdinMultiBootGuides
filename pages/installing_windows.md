@@ -17,6 +17,14 @@ Android will be the primary OS the device boots to if you press ther Power butto
 
 Enjoy!
 
+## If **Volume Up + Power** doesnt work for booting Valhalla
+
+If **Volume Up + Power** doesn't work, you probably need to reflash your Odin with the newer Version out there.
+To do that just follow the steps in the [Flashing ProjectValhalla Firmware](https://github.com/ProjectValhalla/OdinWindowsGuides/blob/main/pages/FlashingProjectValhallaFirmware.md) but with the Odin Firmware.
+[Odin Firmware](https://drive.google.com/drive/folders/1PrheTNtgZXvNBXgGlDkM4ilhVerKDPtT?usp=sharing)
+After you reflashed your Odin, it should be ready for the Dualboot.
+Don't skip any step!
+The reflashing step will erase everything!
 
 ## Returning to Android Only
 
