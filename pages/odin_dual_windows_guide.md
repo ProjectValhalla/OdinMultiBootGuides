@@ -16,7 +16,7 @@ It will also divide your available storage in half between the two operating sys
 ### Hardware :
 
 - A Windows based computer (vm will work)
-
+ 
 - An **Odin-Base** (4GB RAM with 64GB Storage) or an **Odin-Pro** (8GB RAM with 128GB or 256GB Storage)
 
 - An 8GB or larger USB flash drive formatted to FAT32
@@ -27,7 +27,7 @@ It will also divide your available storage in half between the two operating sys
 
 - [Google USB Driver](https://developer.android.com/studio/run/win-usb)
 
-- [custom_boot_1.0.2.10.7z](http://download.project-valhalla.com/custom_boot/custom_boot_1.0.2.10.7z)
+- [custom_boot_1.0.2.10_beta.zip](http://download.project-valhalla.com/custom_boot/custom_boot_1.0.2.10_beta.zip)
 
 - [windows_usb_installer.7z](http://download.project-valhalla.com/custom_boot/windows_usb_installer.7z)
 
@@ -36,6 +36,6 @@ It will also divide your available storage in half between the two operating sys
 
 ## Installation Steps:
 
-1. [Preparing the Odin and Files](https://github.com/ProjectValhalla/OdinMultiBootGuides/blob/main/pages/preparing_the_odin_and_files.md)
+1. [Preparing Windows Odin and Files](https://github.com/ProjectValhalla/OdinMultiBootGuides/blob/main/pages/preparing_windows_odin_and_files.md)
 
 2. [Installing Windows](https://github.com/ProjectValhalla/OdinMultiBootGuides/blob/main/pages/installing_windows.md)

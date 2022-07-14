@@ -1,4 +1,4 @@
-🔙 Previous Step: [Partitioning the device](https://github.com/ProjectValhalla/OdinMultiBootGuides/blob/main/pages/preparing_the_odin_and_files.md)
+🔙 Previous Step: [Partitioning the device](https://github.com/ProjectValhalla/OdinMultiBootGuides/blob/main/pages/preparing_windows_odin_and_files.md)
 
 # Installing Windows
 
@@ -20,4 +20,4 @@ Enjoy!
 
 ## Returning to Android Only
 
-Boot the device into fastboot by powering off the device and press **Volume Down + Power** until you see the Green START screen. Plug your device into your pc and run the `restore.bat` file in the `custom_boot_1.0.2.10` folder.
+Boot the device into fastboot by powering off the device and press **Volume Down + Power** until you see the Green START screen. Plug your device into your pc and run the `restore.bat` file in the `custom_boot_1.0.2.10_beta` folder.
