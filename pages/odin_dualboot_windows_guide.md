@@ -15,7 +15,7 @@ It will also divide your available storage in half between the two operating sys
 
 ### Hardware :
 
-- A Windows based computer (vm will work)
+- A Windows or Linux based computer (vm will work)
  
 - An **Odin-Base** (4GB RAM with 64GB Storage) or an **Odin-Pro** (8GB RAM with 128GB or 256GB Storage)
 
@@ -36,6 +36,6 @@ It will also divide your available storage in half between the two operating sys
 
 ## Installation Steps:
 
-1. [Preparing Windows Odin and Files](https://github.com/ProjectValhalla/OdinMultiBootGuides/blob/main/pages/preparing_windows_odin_and_files.md)
+1. [Preparing Windows Odin and Files](https://github.com/ProjectValhalla/OdinMultiBootGuides/blob/main/pages/preparing_windows_files.md)
 
 2. [Installing Windows](https://github.com/ProjectValhalla/OdinMultiBootGuides/blob/main/pages/installing_windows.md)
