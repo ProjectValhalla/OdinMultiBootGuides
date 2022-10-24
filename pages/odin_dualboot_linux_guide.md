@@ -25,7 +25,7 @@ It will also divide your available storage in half between the two operating sys
 
 - [Google USB Driver](https://developer.android.com/studio/run/win-usb)
 
-- [custom_boot_1.0.2.10_beta.zip](http://download.project-valhalla.com/custom_boot/custom_boot_1.0.2.10_beta.zip)
+- [odin_custom_boot_1.0.2.7z](https://download.project-valhalla.com/custom_boot/odin_custom_boot_1.0.2.7z)
 
 - An installation images folder in this [link](http://download.project-valhalla.com/linux_release/). 
 

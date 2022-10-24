@@ -27,9 +27,9 @@ It will also divide your available storage in half between the two operating sys
 
 - [Google USB Driver](https://developer.android.com/studio/run/win-usb)
 
-- [custom_boot_1.0.2.10_beta.zip](http://download.project-valhalla.com/custom_boot/custom_boot_1.0.2.10_beta.zip)
+- [odin_custom_boot_1.0.2.7z](https://download.project-valhalla.com/custom_boot/odin_custom_boot_1.0.2.7z)
 
-- [windows_usb_installer.7z](http://download.project-valhalla.com/custom_boot/windows_usb_installer.7z)
+- [odin_windows_installer.7z](http://download.project-valhalla.com/custom_boot/odin_windows_installer.7z)
 
 - An install.wim from either folder in this [link](http://download.project-valhalla.com/windows_release/). 
   - Build 22621.1 is recommended as it has the least graphical issues at this time.
