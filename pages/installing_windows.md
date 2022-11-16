@@ -28,7 +28,7 @@ Enjoy!
 Boot the device into Fastboot by powering off the device and press **Volume Down + Power** until you see the Green START screen. 
 
 Plug your device into your PC
- - If you have **Model: Odin**  Run the `restore_odin.bat` for Windows Host or `restore_odin.sh` for Linux Host in the `odin_custom_boot_1.0.2` folder.
- - If you have **Model: Odin_M2**  Run the `restore_odinm2.bat` for Windows Host or `restore_odinm2.sh` for Linux Host in the `odin_custom_boot_1.0.2` folder.
+ - If you have **Model: Odin**  Run the `restore_odin_m0.bat` for Windows Host or `restore_odin_m0.sh` for Linux Host in the `odin_custom_boot_1.0.3` folder.
+ - If you have **Model: Odin_M2**  Run the `restore_odin_m2.bat` for Windows Host or `restore_odin_m2.sh` for Linux Host in the `odin_custom_boot_1.0.3` folder.
 
  This will repartition your device. It will take several minutes to complete.
