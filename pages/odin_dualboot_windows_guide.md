@@ -29,11 +29,11 @@ It will also divide your available storage in half between the two operating sys
 
 - [odin_custom_boot_1.0.3.7z](https://download.project-valhalla.com/custom_boot/odin_custom_boot_1.0.3.7z)
 
-- [odin_windows_installer.7z](http://download.project-valhalla.com/custom_boot/odin_windows_installer.7z)
+- [odin_windows_installer.7z](https://download.project-valhalla.com/custom_boot/odin_windows_installer.7z)
 
-- Sensor Config Driver if you have **Model: Odin_M2** [qcSensorsConfig850-M2.zip](http://download.project-valhalla.com/custom_boot/qcSensorsConfig850-M2.zip)
+- Sensor Config Driver if you have **Model: Odin_M2** [qcSensorsConfig850-M2.zip](https://download.project-valhalla.com/custom_boot/qcSensorsConfig850-M2.zip)
 
-- An install.wim from either folder in this [link](http://download.project-valhalla.com/windows_release/). 
+- An install.wim from either folder in this [link](https://download.project-valhalla.com/windows_release/). 
   - Build 22621.1 is recommended as it has the least graphical issues at this time.
 
 ## Installation Steps:
